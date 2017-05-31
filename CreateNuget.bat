@@ -1,1 +1,1 @@
-nuget pack FreshMvvmRxUiInterop.csproj -Prop Configuration=Release
+nuget pack src\FreshMvvmRxUiInterop.csproj -Prop Configuration=Release
