@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>com.russellstather.freshmvvmrxuiinterop</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>russellstather</authors>
+    <owners>russellstather</owners>
+    <licenseUrl>https://github.com/stather/FreshMvvmRxUiInterop/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/stather/FreshMvvmRxUiInterop</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Makes RxUI work with FreshMvvm</description>
+    <releaseNotes>First release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>RxUI ReactiveUI FreshMvvm Xamarin Forms</tags>
+  </metadata>
+</package>
